@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#eafaf1"/>
+  <text x="150" y="40" text-anchor="middle" font-family="Georgia" font-size="16" font-weight="bold" fill="#1a5276">RADICIAÇÃO</text>
+  <polyline points="70,120 90,120 105,145 130,75 230,75" stroke="#2e86c1" stroke-width="3" fill="none"/>
+  <text x="175" y="110" text-anchor="middle" font-family="Georgia" font-size="42" fill="#2e86c1">25</text>
+  <text x="150" y="170" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">√25 = 5</text>
+</svg>

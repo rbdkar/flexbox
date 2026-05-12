@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#eaf4fb"/>
+  <text x="150" y="40" text-anchor="middle" font-family="Georgia" font-size="16" font-weight="bold" fill="#1a5276">FRAÇÕES</text>
+  <line x1="80" y1="100" x2="220" y2="100" stroke="#1a5276" stroke-width="3"/>
+  <text x="150" y="88" text-anchor="middle" font-family="Georgia" font-size="32" fill="#2e86c1">3</text>
+  <text x="150" y="135" text-anchor="middle" font-family="Georgia" font-size="32" fill="#2e86c1">4</text>
+  <text x="150" y="175" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Numerador / Denominador</text>
+</svg>

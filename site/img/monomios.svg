@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#f4f6f7"/>
+  <text x="150" y="40" text-anchor="middle" font-family="Georgia" font-size="16" font-weight="bold" fill="#1a5276">MONÔMIOS</text>
+  <text x="150" y="100" text-anchor="middle" font-family="Georgia" font-size="34" fill="#2e86c1">5x²y</text>
+  <text x="80" y="140" text-anchor="middle" font-family="Arial" font-size="12" fill="#f39c12" font-weight="bold">5 → coef.</text>
+  <text x="150" y="140" text-anchor="middle" font-family="Arial" font-size="12" fill="#e74c3c" font-weight="bold">x²y → parte</text>
+  <text x="225" y="140" text-anchor="middle" font-family="Arial" font-size="12" fill="#27ae60" font-weight="bold">literal</text>
+  <text x="150" y="175" text-anchor="middle" font-family="Arial" font-size="12" fill="#555">Grau do monômio: 3</text>
+</svg>

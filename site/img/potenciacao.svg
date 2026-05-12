@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#fef9e7"/>
+  <text x="150" y="40" text-anchor="middle" font-family="Georgia" font-size="16" font-weight="bold" fill="#1a5276">POTENCIAÇÃO</text>
+  <text x="150" y="115" text-anchor="middle" font-family="Georgia" font-size="48" fill="#2e86c1">2</text>
+  <text x="183" y="90" text-anchor="middle" font-family="Georgia" font-size="28" fill="#f39c12">5</text>
+  <text x="150" y="155" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Base elevada ao Expoente</text>
+  <text x="150" y="178" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">2⁵ = 32</text>
+</svg>
